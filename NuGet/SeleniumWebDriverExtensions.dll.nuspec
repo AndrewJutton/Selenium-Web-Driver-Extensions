@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SeleniumWebDriverExtensions</id>
+    <version>1.0.1</version>
+    <authors>Andrew Jutton</authors>
+    <owners>Andrew Jutton</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Extension methods for Selenium WebDriver. Simplifies working with common HTML controls</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags>Selenium WebDriver Extensions</tags>
+    <dependencies>
+		<dependency id="Selenium.WebDriver" version="2.20.0" />
+		<dependency id="Selenium.Support" version="2.20.0" />
+    </dependencies>
+  </metadata>
+</package>
