@@ -14,3 +14,12 @@ c:\users\andrew jutton\documents\visual studio 2010\Projects\SeleniumWebDriverEx
 c:\users\andrew jutton\documents\visual studio 2010\Projects\SeleniumWebDriverExtensions\SeleniumWebDriverExtensions\obj\Debug\ResolveAssemblyReference.cache
 c:\users\andrew jutton\documents\visual studio 2010\Projects\SeleniumWebDriverExtensions\SeleniumWebDriverExtensions\obj\Debug\SeleniumWebDriverExtensions.dll
 c:\users\andrew jutton\documents\visual studio 2010\Projects\SeleniumWebDriverExtensions\SeleniumWebDriverExtensions\obj\Debug\SeleniumWebDriverExtensions.pdb
+C:\Source\Selenium-Web-Driver-Extensions\SeleniumWebDriverExtensions\bin\Debug\SeleniumWebDriverExtensions.dll
+C:\Source\Selenium-Web-Driver-Extensions\SeleniumWebDriverExtensions\bin\Debug\SeleniumWebDriverExtensions.pdb
+C:\Source\Selenium-Web-Driver-Extensions\SeleniumWebDriverExtensions\bin\Debug\WebDriver.dll
+C:\Source\Selenium-Web-Driver-Extensions\SeleniumWebDriverExtensions\bin\Debug\WebDriver.Support.dll
+C:\Source\Selenium-Web-Driver-Extensions\SeleniumWebDriverExtensions\bin\Debug\WebDriver.xml
+C:\Source\Selenium-Web-Driver-Extensions\SeleniumWebDriverExtensions\bin\Debug\WebDriver.Support.xml
+C:\Source\Selenium-Web-Driver-Extensions\SeleniumWebDriverExtensions\obj\Debug\SeleniumWebDriverExtensions.csprojResolveAssemblyReference.cache
+C:\Source\Selenium-Web-Driver-Extensions\SeleniumWebDriverExtensions\obj\Debug\SeleniumWebDriverExtensions.dll
+C:\Source\Selenium-Web-Driver-Extensions\SeleniumWebDriverExtensions\obj\Debug\SeleniumWebDriverExtensions.pdb
